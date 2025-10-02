@@ -3,7 +3,7 @@
 ---
 title: Home
 layout: default
-show_edit_link: false
+show_edit_link: true
 ---
 
 ![JP A-Marl Avatar](Avatar.jpg)
