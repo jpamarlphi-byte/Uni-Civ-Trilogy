@@ -30,6 +30,12 @@ Explore the full text and philosophical framework:
 Dive into the Prompt Pack:
 [Prompt Pack](https://huggingface.co/datasets/jpamarlphi-byte/Uni-Civ-Trilogy-Prompts)
 
+Follow the journey:
+- [Medium](https://medium.com/@jpamarl.phi)
+- [Reddit](https://reddit.com/r/unifiedcivilization)
+- [YouTube](https://youtube.com/@jpa-marl)
+- [TikTok](https://tiktok.com/@jp.amarl3)
+
 
 <!-- kill footer -->
 <script>
@@ -38,11 +44,4 @@ document.addEventListener('DOMContentLoaded', () => {
   footers.forEach(f => f.style.display = 'none');
 });
 </script>
-
-
-Follow the journey:
-- [Medium](https://medium.com/@jpamarl.phi)
-- [Reddit](https://reddit.com/r/unifiedcivilization)
-- [YouTube](https://youtube.com/@jpa-marl)
-- [TikTok](https://tiktok.com/@jp.amarl3)
 
