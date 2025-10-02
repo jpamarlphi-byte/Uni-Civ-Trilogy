@@ -1,6 +1,6 @@
 # Uni-Civ Trilogy
 
-![JP A-Marl Avatar](Avatar.png)
+![JP A-Marl Avatar](Avatar.jpg)
 ![Uni-Civ Header](Trilogy.jpeg)
 
 Welcome to the official GitHub Pages site for the Uni-Civ Trilogy by JP A-Marl.
