@@ -37,9 +37,11 @@ Follow the journey:
 - [TikTok](https://tiktok.com/@jp.amarl3)
 
 <!-- Place this at the END of index.md -->
-<style>
-/* GitHub Pages auto-footer kill-switch */
-footer a[href*="github.com"] { display:none !important; }
-.site-footer { display:none !important; }
-</style>
+<!-- kill footer -->
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const footers = document.querySelectorAll('footer, .site-footer');
+  footers.forEach(f => f.style.display = 'none');
+});
+</script>
 
