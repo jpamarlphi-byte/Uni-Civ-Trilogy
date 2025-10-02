@@ -1,11 +1,11 @@
+# Uni-Civ Trilogy
+
 <style>
   /* kill the GH-Pages "improve this page" footer */
   .site-footer a[href*="github.com"],
   .site-footer .rss-subscribe,
   footer a[href*="github.com"] { display:none !important; }
 </style>
-
-# Uni-Civ Trilogy
 
 ![JP A-Marl Avatar](Avatar.jpg)
 ![Uni-Civ Header](Trilogy.jpeg)
