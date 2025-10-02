@@ -16,3 +16,7 @@ Follow the journey:
 - [Reddit](https://reddit.com/r/unifiedcivilization)
 - [YouTube](https://youtube.com/@jpa-marl)
 - [TikTok](https://tiktok.com/@jp.amarl3)
+
+<style>
+  footer { display: none; }
+</style>
