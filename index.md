@@ -1,12 +1,5 @@
 # Uni-Civ Trilogy
 
-<style>
-  /* kill the GH-Pages "improve this page" footer */
-  .site-footer a[href*="github.com"],
-  .site-footer .rss-subscribe,
-  footer a[href*="github.com"] { display:none !important; }
-</style>
-
 ![JP A-Marl Avatar](Avatar.jpg)
 ![Uni-Civ Header](Trilogy.jpeg)
 
@@ -42,4 +35,11 @@ Follow the journey:
 - [Reddit](https://reddit.com/r/unifiedcivilization)
 - [YouTube](https://youtube.com/@jpa-marl)
 - [TikTok](https://tiktok.com/@jp.amarl3)
+
+<!-- Place this at the END of index.md -->
+<style>
+/* GitHub Pages auto-footer kill-switch */
+footer a[href*="github.com"] { display:none !important; }
+.site-footer { display:none !important; }
+</style>
 
