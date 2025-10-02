@@ -37,11 +37,12 @@ Follow the journey:
 - [TikTok](https://tiktok.com/@jp.amarl3)
 
 
-<!-- kill footer -->
+<!-- end of your visible content -->
+
 <script>
 document.addEventListener('DOMContentLoaded', () => {
-  const footers = document.querySelectorAll('footer, .site-footer');
-  footers.forEach(f => f.style.display = 'none');
+  document.querySelectorAll('footer, .site-footer').forEach(el => el.style.display = 'none');
 });
 </script>
+
 
