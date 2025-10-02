@@ -31,5 +31,6 @@ Follow the journey:
 - [TikTok](https://tiktok.com/@jp.amarl3)
 
 <style>
-footer { display: none; }
+  body > footer { display: none !important; }
 </style>
+
