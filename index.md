@@ -37,7 +37,7 @@ Follow the journey:
 - [TikTok](https://tiktok.com/@jp.amarl3)
 
 ---
-layout: null
+layout: none
 ---
 
 
