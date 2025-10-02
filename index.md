@@ -9,17 +9,17 @@ The Uni-Civ Trilogy is a curated collection of fundamentals authored by JP A-Mar
 
 These fundamentals are organized into three beacons:
 
-![Theorem](Theorem.jpeg)
+![Theorem](Theorem.jpg)
 
 📘 1. Theorem: Evidence of God in the Universe 
 Explores metaphysical and scientific intersections, proposing that reality is an entangled information field with divine structure. Prompts in this section address consciousness, rationality, and moral architecture.
 
-![Book](Book.jpeg)
+![Book](Book.jpg)
 
 📗 2. Unified Civilization: Humanity’s Last Revolution 
 Focuses on the leap from tribal identity to civilizational consciousness. Prompts challenge legacy geopolitical paradigms and advocate for a coherent species-level identity rooted in dignity and diversity.
 
-![Outlook](Outlook.jpeg)
+![Outlook](Outlook.jpg)
 
 📙 3. Strategic Outlook: Preparing for AGI and Automation 
 Addresses the socioeconomic impact of automation and AGI. Prompts call for strategic reskilling, policy foresight, and ethical preparedness in the face of technological disruption.
