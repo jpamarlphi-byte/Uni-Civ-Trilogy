@@ -1,5 +1,11 @@
 # Uni-Civ Trilogy
 
+---
+title: Home
+layout: default
+show_edit_link: false
+---
+
 ![JP A-Marl Avatar](Avatar.jpg)
 ![Uni-Civ Header](Trilogy.jpeg)
 
@@ -36,13 +42,5 @@ Follow the journey:
 - [YouTube](https://youtube.com/@jpa-marl)
 - [TikTok](https://tiktok.com/@jp.amarl3)
 
-
-<!-- end of your visible content -->
-
-<script>
-document.addEventListener('DOMContentLoaded', () => {
-  document.querySelectorAll('footer, .site-footer').forEach(el => el.style.display = 'none');
-});
-</script>
 
 
