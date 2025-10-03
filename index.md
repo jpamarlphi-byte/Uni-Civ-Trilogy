@@ -1,11 +1,5 @@
 # Uni-Civ Trilogy
 
----
-title: Home
-layout: default
-show_edit_link: true
----
-
 ![JP A-Marl Avatar](Avatar.jpg)
 ![Uni-Civ Header](Trilogy.jpeg)
 
