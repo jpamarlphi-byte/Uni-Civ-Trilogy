@@ -1,1 +1,5 @@
-theme: minima
+title: Uni-Civ Trilogy
+description: A unified philosophical and strategic framework by JP A-Marl
+theme: jekyll-theme-cayman
+show_downloads: false
+
