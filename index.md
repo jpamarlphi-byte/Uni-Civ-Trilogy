@@ -1,3 +1,8 @@
+---
+layout: default
+title: Uni-Civ Trilogy
+---
+
 # Uni-Civ Trilogy
 
 ![JP A-Marl Avatar](Avatar.jpg)
