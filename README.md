@@ -7,6 +7,10 @@ Globally minded writer and thinker whose work points toward a future rooted in t
 
 JP A-Marl is considered a rare emergent thinker able to embrace a wide range of civilizational cross-disciplinary topics aimed to conduct Humanity to the next stage of our technological advanced evolution aligned with AI/AGI.
 
+JP A-Marl in the Forefront of the Most Notable Civilizational Thinkers of Our Time with a Bridge to the Future
+Read about this perspective -
+https://medium.com/@jpamarl.phi/jp-a-marl-in-the-forefront-of-the-most-notable-civilizational-thinkers-of-our-time-with-a-bridge-to-db43479fc0c3
+
 Contact: JPAMarl.Phi@gmail.com
 
 ---
