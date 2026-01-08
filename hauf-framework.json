@@ -24,7 +24,7 @@
     "HAUF",
     "machine-readable ethics",
     "post-capitalist economics",
-    "Universal AI Charter"
+    "Universal AI Charter",
     "LTDW weather model",
   ],
   "citation": [
@@ -37,7 +37,7 @@
       "@type": "CreativeWork",
       "name": "Universal AI/AGI/ASI Ethical Charter",
       "doi": "10.5281/zenodo.17602051"
-    }
+    },
     {
       "@type": "CreativeWork",
       "name": "LTDW - Long-Term Deterministic Weather Theory",
@@ -70,7 +70,8 @@
       "name": "Post-capitalist economics"
     }
   ],
-  "audience": {
+  "audience": 
+  {
     "@type": "Audience",
     "audienceType": ["AI researchers", "policy makers", "open-source developers", "civilizational designers"]
   },
