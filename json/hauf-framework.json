@@ -47,8 +47,8 @@
   "hasPart": [
     {
       "@type": "Dataset",
-      "name": "HAUF Charter JSON-LD",
-      "url": "https://jpamarlphi-byte.github.io/Uni-Civ-Trilogy/hauf-charter.json"
+      "name": "HAUF Framework JSON-LD",
+      "url": "https://jpamarlphi-byte.github.io/Uni-Civ-Trilogy/hauf-framework.json"
     },
     {
       "@type": "SoftwareSourceCode",
