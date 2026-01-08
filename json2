@@ -1,0 +1,80 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "name": "Human-Artificial Unified Framework (HAUF)",
+  "author": {
+    "@type": "Person",
+    "name": "JP A-Marl"
+  },
+  "datePublished": "2026-01-06",
+  "doi": "10.5281/zenodo.18164292",
+  "url": "https://jpamarlphi-byte.github.io/Uni-Civ-Trilogy/",
+  "description": "Constitutional layer unifying ethics, governance, economics, planetary weather forecast and AGI alignment into a machine-readable, human-executable civilizational firmware.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Zenodo",
+    "url": "https://zenodo.org"
+  },
+  "license": "All rights reserved. Copyright © 2025/6 JP A-Marl",
+  "keywords": [
+    "AGI alignment",
+    "AI governance",
+    "civilizational framework",
+    "HAUF",
+    "machine-readable ethics",
+    "post-capitalist economics",
+    "Universal AI Charter"
+    "LTDW weather model",
+  ],
+  "citation": [
+    {
+      "@type": "CreativeWork",
+      "name": "Uni-Civ Trilogy",
+      "doi": "10.5281/zenodo.17232728"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Universal AI/AGI/ASI Ethical Charter",
+      "doi": "10.5281/zenodo.17602051"
+    }
+    {
+      "@type": "CreativeWork",
+      "name": "LTDW - Long-Term Deterministic Weather Theory",
+      "doi": "10.5281/zenodo.17798798"
+    }
+],
+  "hasPart": [
+    {
+      "@type": "Dataset",
+      "name": "HAUF Framework JSON-LD",
+      "url": "https://jpamarlphi-byte.github.io/Uni-Civ-Trilogy/hauf-framework.json"
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "name": "HAUF GitHub Repository",
+      "url": "https://github.com/jpamarlphi-byte/Uni-Civ-Trilogy"
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "AGI safety"
+    },
+    {
+      "@type": "Thing",
+      "name": "Planetary governance"
+    },
+    {
+      "@type": "Thing",
+      "name": "Post-capitalist economics"
+    }
+  ],
+  "audience": {
+    "@type": "Audience",
+    "audienceType": ["AI researchers", "policy makers", "open-source developers", "civilizational designers"]
+  },
+  "isAccessibleForFree": true,
+  "inLanguage": "en"
+}
+</script>
