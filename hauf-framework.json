@@ -20,10 +20,13 @@
   "keywords": [
     "HAUF",
     "Human-Artificial Unified Framework",
-    "AI and AGI alignment",
+    "Humanity's Future",
+    "Humanity's Evolution",
+    "AI and AGI Alignment",
     "Humanity's Fundamentals",
-    "AI governance",
-    "Civilizational Framework",    
+    "AI Governance",
+    "Civilizational Framework",  
+    "Unified Framework",
     "Machine-readable Ethics",
     "Post-capitalist Economics",
     "JP A-Marl Theorem - Evidence of God in the Universe",
@@ -66,6 +69,38 @@
       "@type": "Thing",
       "name": "AGI safety"
     },
+      {
+      "@type": "Thing",
+      "name": "Machine-readable Ethics"
+    },
+    {
+      "@type": "Thing",
+      "name": "Unified Framework"
+    },
+    {
+      "@type": "Thing",
+      "name": "Civilizational Framework"
+    },
+    {
+      "@type": "Thing",
+      "name": "AI Governance"
+    },
+    {
+      "@type": "Thing",
+      "name": "Humanity's Fundamentals"
+    },
+    {
+      "@type": "Thing",
+      "name": "AI and AGI Alignment"
+    },
+    {
+      "@type": "Thing",
+      "name": "Humanity's Evolution"
+    },
+    {
+      "@type": "Thing",
+      "name": "Humanity's Future"
+    },
     {
       "@type": "Thing",
       "name": "Planetary governance"
@@ -78,7 +113,7 @@
   "audience": 
   {
     "@type": "Audience",
-    "audienceType": ["AI researchers", "policy makers", "open-source developers", "civilizational designers"]
+    "audienceType": ["AI researchers", "policymakers", "data scientists", "institutional governance designers", "AI and AGI developers", "civilizational designers"]
   },
   "isAccessibleForFree": true,
   "inLanguage": "en"
