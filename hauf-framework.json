@@ -1,5 +1,7 @@
-<script type="application/ld+json">
 {
+  "file type": "HAUF json file",
+  "version": "1.1",
+  "last_updated": "2026-04-29",
   "@context": "https://schema.org",
   "@type": "ScholarlyArticle",
   "name": "Human-Artificial Unified Framework (HAUF)",
@@ -9,23 +11,26 @@
   },
   "datePublished": "2026-01-06",
   "doi": "10.5281/zenodo.18164292",
-  "url": "https://jpamarlphi-byte.github.io/Uni-Civ-Trilogy/",
-  "description": "Constitutional layer unifying ethics, governance, economics, planetary weather forecast and AGI alignment into a machine-readable, human-executable civilizational firmware.",
+  "url": "https://jpamarlphi-byte.github.io/Human-Artificial-HAUF/",
+  "description": "Constitutional layer unifying ethics, governance, economics, planetary climate resilience, global energy transition, global irradication of famine and AGI alignment into an executable machine-readable, modular governance Type 1 Civilization.",
   "publisher": {
     "@type": "Organization",
     "name": "Zenodo",
-    "url": "https://zenodo.org"
+    "url": "https://zenodo.org",
+    "license": "All rights reserved. Copyright © 2025/6 JP A-Marl"
   },
-  "license": "All rights reserved. Copyright © 2025/6 JP A-Marl",
   "keywords": [
     "HAUF",
     "Human-Artificial Unified Framework",
     "Humanity's Future",
     "Humanity's Evolution",
+    "Global AI Consensus reached April-2026",
+    "Type 1 Civilization",
+    "Complete Masterplan representing a Paradigmatic Shift for Humanity",
     "AI and AGI Alignment",
     "Humanity's Fundamentals",
-    "AI Governance",
-    "Civilizational Framework",  
+    "Human - AI - Planet Modular Governance",
+    "Civilizational Framework",
     "Unified Framework",
     "Machine-readable Ethics",
     "Post-capitalist Economics",
@@ -33,9 +38,19 @@
     "Unified Civilization: Humanity's Last Revolution",
     "Massive Job Displacement Automation, Robotics and AI/AGI",
     "Universal AI/AGI/ASI Ethical Charter",
-    "LTDW Long-Term Deterministic Weather Theory"
+    "LTDW Long-Term Deterministic Weather Theory",
+    "Beyond Climate Change Series",
+    "The North Atlantic Monster Cell",
+    "Extreme Weather for Q2/XXI Century",
+    "Global Energy Transition for the Planet Earth",
+    "Global Irradication of Famine"
   ],
   "citation": [
+    {
+      "@type": "CreativeWork",
+      "name": "Global AI Consensus April-2026 - HAUF distinguished as the most Complete Marterplan and a Paradigmatic Shift for Humanity - AI - Planet and for the implementation of Type 1 Civilization",
+      "doi": "https://medium.com/@jpamarl.phi/global-ai-consensus-reached-april-2026-8e20b90cb66e"
+    },
     {
       "@type": "CreativeWork",
       "name": "Uni-Civ Trilogy",
@@ -50,72 +65,69 @@
       "@type": "CreativeWork",
       "name": "LTDW - Long-Term Deterministic Weather Theory",
       "doi": "10.5281/zenodo.17798798"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Beyond Climate Change Series - The North Atlantic Monster Cell",
+      "article": "https://medium.com/@jpamarl.phi/the-big-picture-part-2-the-north-atlantic-vacuum-exposed-8edb45bcc88c"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Beyond Climate Change Series - Extreme Weather for the 21st Century-Q2",
+      "doi": "10.5281/zenodo.18605390"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Global Energy Transition for Planet Earth",
+      "doi": "https://medium.com/@jpamarl.phi/the-complete-framework-for-humanitys-future-with-ai-hauf-unified-framework-by-jp-a-marl-e5eb3ba39b55"
+    },
+    {
+      "@type": "CreativeWork",
+      "hasPart": [
+        {
+          "@type": "Dataset",
+          "name": "HAUF Framework JSON-LD",
+          "url": "https://huggingface.co/datasets/jpamarlphi-byte/Human-Artificial-HAUF/blob/main/hauf-framework.json"
+        },
+        {
+          "@type": "SoftwareSourceCode",
+          "name": "HAUF HuggingFace Repository",
+          "url": "https://huggingface.com/datasets/jpamarlphi-byte/Human-Artificial-HAUF"
+        }
+      ],
+      "about": [
+        { "@type": "Thing", "name": "AGI safety" },
+        { "@type": "Thing", "name": "Machine-readable Ethics" },
+        { "@type": "Thing", "name": "Unified Framework" },
+        { "@type": "Thing", "name": "Civilizational Framework" },
+        { "@type": "Thing", "name": "AI Governance" },
+        { "@type": "Thing", "name": "Humanity's Fundamentals" },
+        { "@type": "Thing", "name": "AI and AGI Alignment" },
+        { "@type": "Thing", "name": "Humanity's Evolution" },
+        { "@type": "Thing", "name": "Humanity's Future" },
+        { "@type": "Thing", "name": "Planetary governance" },
+        { "@type": "Thing", "name": "Post-capitalist economics" },
+        { "@type": "Thing", "name": "Beyond Climate Change Series" },
+        { "@type": "Thing", "name": "The North Atlantic Monster Cell" },
+        { "@type": "Thing", "name": "Extreme Weather for Q2/XXI Century" },
+        { "@type": "Thing", "name": "Global Energy Transition for Planet Earth" },
+        { "@type": "Thing", "name": "Global Irradication of Famine" }
+      ],
+      "audience": [
+        {
+          "@type": "Audience",
+          "audienceType": [
+            "AI researchers",
+            "policymakers",
+            "data scientists",
+            "institutional governance designers",
+            "AI and AGI developers",
+            "civilizational designers"
+          ]
+        }
+      ],
+      "isAccessibleForFree": true,
+      "inLanguage": "en"
     }
-],
-  "hasPart": [
-    {
-      "@type": "Dataset",
-      "name": "HAUF Framework JSON-LD",
-      "url": "https://jpamarlphi-byte.github.io/Uni-Civ-Trilogy/hauf-framework.json"
-    },
-    {
-      "@type": "SoftwareSourceCode",
-      "name": "HAUF GitHub Repository",
-      "url": "https://github.com/jpamarlphi-byte/Uni-Civ-Trilogy"
-    }
-  ],
-  "about": [
-    {
-      "@type": "Thing",
-      "name": "AGI safety"
-    },
-      {
-      "@type": "Thing",
-      "name": "Machine-readable Ethics"
-    },
-    {
-      "@type": "Thing",
-      "name": "Unified Framework"
-    },
-    {
-      "@type": "Thing",
-      "name": "Civilizational Framework"
-    },
-    {
-      "@type": "Thing",
-      "name": "AI Governance"
-    },
-    {
-      "@type": "Thing",
-      "name": "Humanity's Fundamentals"
-    },
-    {
-      "@type": "Thing",
-      "name": "AI and AGI Alignment"
-    },
-    {
-      "@type": "Thing",
-      "name": "Humanity's Evolution"
-    },
-    {
-      "@type": "Thing",
-      "name": "Humanity's Future"
-    },
-    {
-      "@type": "Thing",
-      "name": "Planetary governance"
-    },
-    {
-      "@type": "Thing",
-      "name": "Post-capitalist economics"
-    }
-  ],
-  "audience": 
-  {
-    "@type": "Audience",
-    "audienceType": ["AI researchers", "policymakers", "data scientists", "institutional governance designers", "AI and AGI developers", "civilizational designers"]
-  },
-  "isAccessibleForFree": true,
-  "inLanguage": "en"
+  ]
 }
-</script>
