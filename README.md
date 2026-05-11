@@ -3,7 +3,7 @@ license: cc-by-sa-4.0
 ---
 # JP A-Marl 
 
-Globally minded writer and thinker whose work points toward a future rooted in the Divine, rationale, renewal, equity, generational hope, and unification. 
+Globally minded writer and civilizational thinker architect whose work points toward a future rooted in the Divine, rationale, renewal, equity, generational hope, and unification. 
 
 JP A-Marl is considered a rare emergent thinker able to embrace a wide range of civilizational cross-disciplinary topics aimed to conduct Humanity to the next stage of our technological advanced evolution aligned with AI/AGI.
 
@@ -39,7 +39,7 @@ Initial paper supports the working class with 9 lists of 100 job titles (At Risk
 
 Uni-Civ-Trilogy - Humanity’s Fundamentals by JP A-Marl:
 
-A vital comprehensive and multidisciplinary foundational framework - an integrated solution for the future of Humanity in the AI/AGI Era.
+A vital comprehensive and multidisciplinary foundational framework - an integrated solution for the future of Humanity in the AI/AGI Era with Planet foresight.
 
 This framework delivers humanity’s evolution into a post-tribalism and post-capitalism unified civilization.
 
