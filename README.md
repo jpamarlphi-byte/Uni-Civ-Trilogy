@@ -269,7 +269,7 @@ Phase 2: Hybrid Response (2028–2032)
 Phase 3: State Intervention Era (2032–2035+)
 
 TOC
-Executive Summary
+Executive Summary -
 No Liability and No Consequential Damages Statement
 1. Introduction
 2. The Growing Stress on Labor Markets
