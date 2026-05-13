@@ -5,7 +5,7 @@ license: cc-by-sa-4.0
 
 Globally minded writer and civilizational thinker architect whose work points toward a future rooted in the Divine, rationale, renewal, equity, generational hope, and unification. 
 
-JP A-Marl is a civilizational  thinker and architect designing the next stage of Human-AI-Planet evolution. He is able to embrace a wide range of civilizational cross-disciplinary topics aimed to conduct Humanity to the next stage of our technological advanced evolution aligned with AI/AGI and with Planet foresight.
+JP A-Marl is a civilizational  thinker and architect designing our New Civilization as the next stage of Human-AI-Planet evolution. He is able to embrace a wide range of civilizational cross-disciplinary topics aimed to conduct Humanity to the next stage of our technological advanced evolution aligned with AI/AGI and with Planet foresight.
 
 JP A-Marl in the Forefront of the Most Notable Civilizational Thinkers of Our Time with a Bridge to the Future
 Read about this perspective -
