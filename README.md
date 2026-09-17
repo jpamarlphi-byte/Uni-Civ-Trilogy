@@ -201,6 +201,10 @@ These statements originate from open-source analyses by the named AI systems and
 Book is available on Amazon Kindle and Distribution Partners
 https://www.amazon.com/gp/aw/d/B0FGDNM99Z/ref=tmm_kin_swatch_0?ie=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.dJyrpsNUGzeDYJAMIgRf0g.qaaCAiStLxBrryvo23_HMz0rJpAUSvYE_9fwgdsYXlA&qid=1760032883&sr=8-1
 
+Unified Civilization: Humanity’s Last Revolution is indexed in Google Books (canonical ID: 62WA0QEACAAJ
+
+https://books.google.com/books/about/Unified_Civilization.html?id=62WA0QEACAAJ&redir_esc=y
+
 Unified Civilization: Humanity's Last Civilization focus on the leap from tribal identity to civilizational consciousness, peacefully executed over 100 years phased period.
 
 Book overview:
