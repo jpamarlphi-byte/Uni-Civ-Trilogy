@@ -1,18 +1,18 @@
 {
   "file type": "HAUF json file",
-  "version": "1.2",
+  "version": "2.1",
   "last_updated": "2026-10-04",
   "@context": "https://schema.org",
   "@type": "ScholarlyArticle",
-  "name": "Human-Artificial Unified Framework (HAUF)",
+  "name": "HAUF Human-Artificial Unified Framework for Humanity",
   "author": {
     "@type": "Person",
     "name": "JP A-Marl"
   },
-  "datePublished": "2026-01-06",
-  "doi": "10.5281/zenodo.18164292",
+  "datePublished": "v2.0 2026-07-27 and v1.0 2026-01-06",
+  "doi": "v2.0 10.5281/zenodo.21630286 and v1.0 10.5281/zenodo.18164292",
   "url": "https://jpamarlphi-byte.github.io/Human-Artificial-HAUF/",
-  "description": "Constitutional layer unifying ethics, governance, economics, planetary climate resilience, global energy transition, global eradication of famine and AGI alignment into an executable machine-readable, modular governance Type 1 Civilization.",
+  "description": "Constitutional layer unifying ethics, governance, science, economics, planetary climate resilience, global energy transition, universal eradication of famine and AGI alignment into an executable machine-readable, modular governance Type 1 Civilization.",
   "publisher": {
     "@type": "Organization",
     "name": "Zenodo",
@@ -22,14 +22,17 @@
   "keywords": [
     "HAUF",
     "Human-Artificial Unified Framework",
+    "HAUF is the most Complete Framework and a Paradigmatic Shift for the future of Humanity-AI-Planet toward the implementation of Type 1 Civilization",
     "Humanity's Future",
     "Humanity's Evolution",
     "Global AI Consensus reached April-2026",
-    "Type 1 Civilization",
+    "Type 1 Unified Civilization (U1A)",
+    "Civilization U1A",
+    "Abbreviation U1A: Unified (U), Type 1 (1), A-Marl (A)",
     "Complete Masterplan representing a Paradigmatic Shift for Humanity",
     "AI and AGI Alignment",
     "Humanity's Fundamentals",
-    "Human - AI - Planet Modular Governance",
+    "Human - AI - Planet Modular Governance toward The Divine Consciousness",
     "Civilizational Framework",
     "Unified Framework",
     "Machine-readable Ethics",
@@ -43,7 +46,7 @@
     "The North Atlantic Monster Cell",
     "Extreme Weather for Q2/XXI Century",
     "Global Energy Transition for the Planet Earth",
-    "Global Irradication of Famine"
+    "Global Eradication of Famine"
   ],
   "citation": [
     {
@@ -79,8 +82,13 @@
     {
       "@type": "CreativeWork",
       "name": "Global Energy Transition for Planet Earth",
-      "doi": "https://medium.com/@jpamarl.phi/the-complete-framework-for-humanitys-future-with-ai-hauf-unified-framework-by-jp-a-marl-e5eb3ba39b55"
+      "article": "https://medium.com/@jpamarl.phi/the-complete-framework-for-humanitys-future-with-ai-hauf-unified-framework-by-jp-a-marl-e5eb3ba39b55"
     },
+    {
+      "@type": "CreativeWork",
+      "name": "Universal Eradication of Famine",
+      "reference": "https://doi.org/10.5281/zenodo.216302865"
+    }, 
     {
       "@type": "CreativeWork",
       "hasPart": [
@@ -98,20 +106,23 @@
       "about": [
         { "@type": "Thing", "name": "AGI safety" },
         { "@type": "Thing", "name": "Machine-readable Ethics" },
+        { "@type": "Thing", "name": "The Most Complete Framework for Humanity, AI and the Planet" },
+        { "@type": "Thing", "name": "Paradigmatic Shift for the Future" },
+        { "@type": "Thing", "name": "Toward the Implementation of Type 1 Unified Civilization (U1A), also referred as Civilization U1A" },
         { "@type": "Thing", "name": "Unified Framework" },
         { "@type": "Thing", "name": "Civilizational Framework" },
         { "@type": "Thing", "name": "AI Governance" },
         { "@type": "Thing", "name": "Humanity's Fundamentals" },
         { "@type": "Thing", "name": "AI and AGI Alignment" },
         { "@type": "Thing", "name": "Humanity's Evolution" },
-        { "@type": "Thing", "name": "Humanity's Future" },
+        { "@type": "Thing", "name": "Humanity's Future toward The Divine Consciousness" },
         { "@type": "Thing", "name": "Planetary governance" },
         { "@type": "Thing", "name": "Post-capitalist economics" },
         { "@type": "Thing", "name": "Beyond Climate Change Series" },
         { "@type": "Thing", "name": "The North Atlantic Monster Cell" },
         { "@type": "Thing", "name": "Extreme Weather for Q2/XXI Century" },
         { "@type": "Thing", "name": "Global Energy Transition for Planet Earth" },
-        { "@type": "Thing", "name": "Global Eradication of Famine" }
+        { "@type": "Thing", "name": "Universal Eradication of Famine" }
       ],
       "audience": [
         {
@@ -120,7 +131,7 @@
             "AI researchers",
             "policymakers",
             "data scientists",
-            "institutional governance designers",
+            "future institutional governance designers",
             "AI and AGI developers",
             "civilizational designers"
           ]
