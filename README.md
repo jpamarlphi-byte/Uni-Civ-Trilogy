@@ -10,7 +10,7 @@ Version v1.1.1 dated 04Oct2026
 ---
 # JP A-Marl 
 
-JP A-Marl is the Architect of a New Civilization Era rooted in the Divine and generational hope for the next stage of Human-AI-Planet co-evolution (HAUF Unified Framework).
+JP A-Marl is the Author and Creator of “THE GREAT VISION FOR HUMANITY”, a Systems Thinker, Author and Civilizational Architect of a New Era (Civilization U1A) of sustainability, abundance and dignity, rooted in the Divine consciousness and generational hope for the next stage of Human-AI-Planet co-evolution (HAUF Unified Framework).
 
 He is a globally minded writer and civilizational thinker whose work points toward a civilizational and spiritual unification.
 
