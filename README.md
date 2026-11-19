@@ -8,7 +8,7 @@ Version v1.1.2 dated 19Nov2026
 
 
 ---
-# JP A-Marl’s “THE GRAND VISION FOR HUMANITY”: HAUF Unified Framework 
+# JP A-Marl - THE GRAND VISION FOR HUMANITY: HAUF Unified Framework 
 
 JP A-Marl is a Systems Thinker, Author and Civilizational Architect, Creator of “THE GRAND VISION FOR HUMANITY”: HAUF Unified Framework, and of a sustainable New Era built in abundance and dignity, rooted in the Divine consciousness and generational hope for the next stage of Human-AI-Planet co-evolution: Civilization U1A.
 
@@ -361,6 +361,6 @@ For structured prompts and alignment statements based on this work, visit the co
 **Author**: JP A-Marl  
 **License**: All rights reserved 
 **File**: 2025_Uni-Civ_Trilogy_JP_A-MARL.pdf  
-**Keywords**: JP A-Marl’s THE GRAND VISION FOR HUMANITY, JP A-Marl Theorem, JP A-Marl Book, JP A-Marl Strategic Outlook, Uni-Civ-Trilogy by JP A-Marl, Solution for Humanity, Civilizational Design, Integrated Civilizational Framework, multidisciplinary framework Uni-Civ Trilogy, Divine rationale, AGI alignment, Ethical Evolution, Strategic-Foresight, Prompt Engineering, A Theorem for the AGI Era, Unified Civilization, Strategic Outlook, Jobs at Risk
+**Keywords**: JP A-Marl - THE GRAND VISION FOR HUMANITY, JP A-Marl Theorem, JP A-Marl Book, JP A-Marl Strategic Outlook, Uni-Civ-Trilogy by JP A-Marl, Solution for Humanity, Civilizational Design, Integrated Civilizational Framework, multidisciplinary framework Uni-Civ Trilogy, Divine rationale, AGI alignment, Ethical Evolution, Strategic-Foresight, Prompt Engineering, A Theorem for the AGI Era, Unified Civilization, Strategic Outlook, Jobs at Risk
 
 
