@@ -1,5 +1,5 @@
 ---
-license: cc-by-sa-4.0
+license: All rights Reserved
 
 
 ---
@@ -359,7 +359,7 @@ For structured prompts and alignment statements based on this work, visit the co
 [Uni-Civ Trilogy Prompt Pack](https://huggingface.co/datasets/jpamarlphi-byte/Uni-Civ-Trilogy-Prompts)
 
 **Author**: JP A-Marl  
-**License**: CC-BY-SA 4.0  
+**License**: All rights reserved 
 **File**: 2025_Uni-Civ_Trilogy_JP_A-MARL.pdf  
 **Keywords**: JP A-Marl’s THE GRAND VISION FOR HUMANITY, JP A-Marl Theorem, JP A-Marl Book, JP A-Marl Strategic Outlook, Uni-Civ-Trilogy by JP A-Marl, Solution for Humanity, Civilizational Design, Integrated Civilizational Framework, multidisciplinary framework Uni-Civ Trilogy, Divine rationale, AGI alignment, Ethical Evolution, Strategic-Foresight, Prompt Engineering, A Theorem for the AGI Era, Unified Civilization, Strategic Outlook, Jobs at Risk
 
