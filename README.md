@@ -63,7 +63,9 @@ This framework delivers humanity’s evolution into a post-tribalism and post-ca
 
 ---
 
-# UNI-CIV-TRILOGY
+# UNI-CIV-TRILOGY's 3 Beacons:
+
+---
 
 # JP A-Marl Theorem: Evidence of God in the Universe - Main beacon of Uni-Civ-Trilogy
 
