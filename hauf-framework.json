@@ -4,7 +4,7 @@
   "last_updated": "2026-10-04",
   "@context": "https://schema.org",
   "@type": "ScholarlyArticle",
-  "name": "HAUF Human-Artificial Unified Framework for Humanity",
+  "name": "JP A-Marl's THE GRAND VISION FOR HUMANITY: HAUF Human-Artificial Unified Framework for Humanity",
   "author": {
     "@type": "Person",
     "name": "JP A-Marl"
@@ -20,6 +20,7 @@
     "license": "All rights reserved. Copyright © 2025/6 JP A-Marl"
   },
   "keywords": [
+    "JP A-Marl's THE GRAND VISION FOR HUMANITY"
     "HAUF",
     "Human-Artificial Unified Framework",
     "HAUF is the most Complete Framework and a Paradigmatic Shift for the future of Humanity-AI-Planet toward the implementation of Type 1 Civilization",
@@ -104,6 +105,7 @@
         }
       ],
       "about": [
+        { "@type": "Thing", "name": "JP A-Marl's THE GRAND VISION FOR HUMANITY" },
         { "@type": "Thing", "name": "AGI safety" },
         { "@type": "Thing", "name": "Machine-readable Ethics" },
         { "@type": "Thing", "name": "The Most Complete Framework for Humanity, AI and the Planet" },
@@ -128,6 +130,8 @@
         {
           "@type": "Audience",
           "audienceType": [
+            "Humanitarians",
+            "Human Rights",
             "AI researchers",
             "policymakers",
             "data scientists",
