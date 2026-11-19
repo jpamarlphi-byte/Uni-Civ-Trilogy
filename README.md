@@ -4,7 +4,7 @@ license: All rights Reserved
 
 ---
 
-Version v1.1.1 dated 04Oct2026
+Version v1.1.2 dated 19Nov2026
 
 
 ---
